@@ -1,0 +1,16 @@
+# Hook overlay — 3 variantes
+
+## Variante 1 — EN fact-bomb
+<hook_en>
+
+## Variante 2 — AR (darija ou littéraire selon mood)
+<hook_ar>
+
+## Variante 3 — Mix EN + mot AR inséré (signature)
+<hook_mix>
+
+---
+Format cible : <F1 | F2 | F3>
+Lieu / sujet : <topic>
+Drapeau : <emoji_drapeau>
+Mood : <mood>

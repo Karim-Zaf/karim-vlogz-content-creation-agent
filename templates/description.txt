@@ -1,0 +1,12 @@
+# Caption — Instagram / TikTok
+
+<ligne_1>
+<ligne_2>
+
+<hashtag_1> <hashtag_2> <hashtag_3> <hashtag_4> <hashtag_5>
+
+---
+Plateforme cible : <instagram | tiktok | both>
+Combo utilisé : <EN+AR | AR+EN | AR seul | EN seul>
+Drapeau du lieu : <emoji>
+Question d'engagement : <oui | non>

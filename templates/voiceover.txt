@@ -1,0 +1,21 @@
+# Voix off — script darija (+ sprinkle arabe littéraire)
+
+## Script (à enregistrer)
+
+<phrase_1_accroche>
+<phrase_2_developpement>
+<phrase_3_fact_bomb>
+<phrase_4_outro>
+
+---
+
+## Traduction FR (pour validation Karim, à supprimer du fichier final)
+
+<traduction_fr>
+
+---
+
+Durée parlée cible : 25-40 secondes
+Format : F2 (voix off + b-rolls)
+Lieu / sujet : <topic>
+Mood : <chill | educatif_leger | cinematic>
